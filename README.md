@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edwinbernadus
-- 👀 I’m interested in c#, golang and flutter
+- 👀 I’m interested in c#, golang, flutter and solidity
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on (( anything ))
 - 📫 How to reach me at www.linkedin.com/in/edwin-bernadus
