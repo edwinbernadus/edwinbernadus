@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on (( anything ))
 - 📫 How to reach me at www.linkedin.com/in/edwin-bernadus
+- Portofolio website: https://edwinlandingpage.super.site/
 
 <!---
 edwinbernadus/edwinbernadus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
